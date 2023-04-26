@@ -78,4 +78,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cooper-hall&show_icons=true&locale=en&layout=compact" alt="cooper-hall" /></div>
