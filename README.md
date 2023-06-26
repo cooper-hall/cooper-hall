@@ -10,7 +10,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/3o7TKoLSUWybe97uWA/giphy.gif" >
 
 
-- 🔭 I’m currently working on **learning Typescript**
+- 🔭 I’m currently working on **World Building Application utilizing OpenAI's API**
 
 - 🌱 I will very soon be learning **AWS**
 
