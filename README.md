@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **World Building Application utilizing OpenAI's API**
 
-- 🌱 I will very soon be learning **AWS**
+- 🌱 Currently taking Andrew Ng's Neural Networks and Deep Learning 
 
 - 📫 How to reach me **cooperhall111@gmail.com** or LinkedIn.
 <div align="center" id="badges">
